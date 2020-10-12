@@ -24,7 +24,7 @@
 ### [Team End](https://discord.gg/dHFzUjz)
 ### [Team HT](https://discord.gg/dMC7kUy)
 ### [Digncore](https://discord.gg/RstbdNr)
-### [Array](https://discord.gg/7k5bWur)
+### [Array []](https://discord.gg/7k5bWur)
 
 ## 🧑 프로필
 [![decave27's github stats](https://github-readme-stats.vercel.app/api?username=decave27)](https://github.com/decave27)
