@@ -10,7 +10,6 @@
 
 
 ## 🖥️ 내가 만든 것
-- [FREEAIWEB](https://freeai.me)
 - [Customcmd](https://pypi.org/project/Customcmd/)
 
 ## 📞 연락
