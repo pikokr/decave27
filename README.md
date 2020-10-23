@@ -6,17 +6,17 @@
 ![Python](https://img.shields.io/badge/Python-green?logo=Python&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/Javascript-green?logo=Javascript&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-green?logo=Java&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-green?logo=C%2B%2B&style=for-the-badge)
+
 
 
 ## 🖥️ 내가 만든 것
-- [Customcmd](https://pypi.org/project/Customcmd/)
+- [Customcmd](https://pypi.org/project/Customcmd/) #커스텀 봇을 쉽게 제작가능한 
+- [Lavalink Install Helper](https://github.com/decave27/lavalink-install-helper) #우분투에 라바링크를 설치 가이드입니다
 
 ## 📞 연락
 ### [Discord](https://discord.com/users/717044065635532810)
 ### [Twitter](https://twitter.com/decave27)
 ### [Email](mailto:decave27@gmail.com)
-### [Discord Server](https://discord.gg/43qt3n4)
 
 ## 🏢 팀
 ### [AI Online](https://discord.gg/ARCdUzC)
