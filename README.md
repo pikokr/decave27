@@ -10,8 +10,9 @@
 
 
 ## 🖥️ 내가 만든 것
-- [Customcmd](https://pypi.org/project/Customcmd/) #커스텀 봇을 쉽게 제작가능한 
+- [Customcmd](https://pypi.org/project/Customcmd/) #커스텀 봇을 쉽게 제작가능한 모듈
 - [Lavalink Install Helper](https://github.com/decave27/lavalink-install-helper) #우분투에 라바링크를 설치 가이드입니다
+- [Pyextensions](https://github.com/decave27/pyextensions) #파이썬 프로젝트 개발을 더 쉽게 제작가능하게 만들어주는 
 
 ## 📞 연락
 ### [Discord](https://discord.com/users/717044065635532810)
