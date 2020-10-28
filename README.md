@@ -20,12 +20,13 @@
 ### [Email](mailto:decave27@gmail.com)
 
 ## 🏢 팀
-### [AI Online](https://discord.gg/ARCdUzC)
+### [UniqueCode](https://discord.gg/ARCdUzC)
 ### [Team End](https://discord.gg/dHFzUjz)
 ### [Team HT](https://discord.gg/dMC7kUy)
 ### [Digncore](https://discord.gg/RstbdNr)
 ### [Array []](https://discord.gg/7k5bWur)
 ### [Team Sirius](https://discord.gg/b9ZhEZh)
+### [TEAM Teriyaki](https://discord.gg/3vw3EQc)
 
 ## 🧑 프로필
 [![decave27's github stats](https://github-readme-stats.vercel.app/api?username=decave27)](https://github.com/decave27)
