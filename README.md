@@ -27,6 +27,7 @@
 ### [Array []](https://discord.gg/7k5bWur)
 ### [Team Sirius](https://discord.gg/b9ZhEZh)
 ### [TEAM Teriyaki](https://discord.gg/3vw3EQc)
+### [Team Kat](https://discord.gg/R5UG5mR)
 
 ## 🧑 프로필
 [![decave27's github stats](https://github-readme-stats.vercel.app/api?username=decave27)](https://github.com/decave27)
