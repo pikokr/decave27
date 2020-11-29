@@ -1,4 +1,4 @@
-# 👋 안녕하세요 13세 개발자 Decave 입니다!
+# 고야이는 그르르
 
 ## 📄 사용하는 언어 
 
@@ -23,10 +23,9 @@
 ### [UniqueCode](https://discord.gg/ARCdUzC)
 ### [Team End](https://discord.gg/dHFzUjz)
 ### [Team HT](https://discord.gg/dMC7kUy)
-### [Digncore](https://discord.gg/RstbdNr)
 ### [Array []](https://discord.gg/7k5bWur)
 ### [Team Sirius](https://discord.gg/b9ZhEZh)
-### [TEAM Teriyaki](https://discord.gg/3vw3EQc)
+### [Wade Studio](https://discord.gg/53sUK7jAEW)
 ### [Team Kat](https://discord.gg/R5UG5mR)
 
 ## 🧑 프로필
