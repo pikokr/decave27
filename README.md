@@ -3,7 +3,6 @@ I am just a normal student developer
 ## 🧑 Profile
 [![decave27's github stats](https://github-readme-stats.vercel.app/api?username=decave27)](https://github.com/decave27)
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=decave27)](https://github.com/decave27)
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=decave27)](https://github.com/decave27)
 
 ## 📄 Programming language used...
 
