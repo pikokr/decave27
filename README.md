@@ -1,28 +1,35 @@
-# 고야이는 그르르
+# Hi there 👋
+I am just a normal student developer
+## 🧑 Profile
+[![decave27's github stats](https://github-readme-stats.vercel.app/api?username=decave27)](https://github.com/decave27)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=decave27)](https://github.com/decave27)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=decave27)](https://github.com/decave27)
 
-## 📄 사용하는 언어 
+## 📄 Programming language used...
 
 ![PHP](https://img.shields.io/badge/-php-green?logo=php&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-green?logo=Python&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/Javascript-green?logo=Javascript&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-green?logo=Java&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-green?logo=kotlin&style=for-the-badge)
 
 
 
-## 🖥️ 내가 만든 것
+
+## 🖥️ What I made...
 ### [Customcmd](https://github.com/decave27/Customcmd)
- ㄴ 커스텀 봇을 쉽게 만들수 있도록 제작된 모듈입니다
+ ㄴ This module is designed to make it easy to create custom bots.(Python)
 ### [autostock](https://github.com/decave27/autostock)
- ㄴ 주식을 만듭시다
+ ㄴ Make stock functions easier(Python)
 ### [discordpy-reply](https://github.com/decave27/discordpy-reply)
- ㄴ 봇으로 답장해봅시다
+ ㄴ use the new "reply" feature from Discord as a bot(Python)
 
-## 📞 연락
+## 📞 Contact me!
 ### [Discord](https://discord.com/users/717044065635532810)
 ### [Twitter](https://twitter.com/decave27)
 ### [Email](mailto:decave27@gmail.com)
 
-## 🏢 팀
+## 🏢 Teams
 ### [UniqueCode](https://discord.gg/ARCdUzC)
 ### [Team End](https://discord.gg/dHFzUjz)
 ### [Team HT](https://discord.gg/dMC7kUy)
@@ -31,5 +38,4 @@
 ### [Wade Studio](https://discord.gg/53sUK7jAEW)
 ### [Team Kat](https://discord.gg/R5UG5mR)
 
-## 🧑 프로필
-[![decave27's github stats](https://github-readme-stats.vercel.app/api?username=decave27)](https://github.com/decave27)
+
