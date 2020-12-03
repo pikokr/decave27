@@ -17,14 +17,17 @@ I am just a normal student developer
 
 ## 🖥️ What I made...
 ### [Customcmd](https://github.com/decave27/Customcmd)
- ㄴ This module is designed to make it easy to create custom bots.(Python)
 ![Customcmd](https://github-readme-stats.vercel.app/api/pin/?username=decave27&repo=Customcmd)
+ ㄴ This module is designed to make it easy to create custom bots.(Python)
+
 ### [autostock](https://github.com/decave27/autostock)
- ㄴ Make stock functions easier(Python)
 ![autostock](https://github-readme-stats.vercel.app/api/pin/?username=decave27&repo=autostock)
+ ㄴ Make stock functions easier(Python)
+
 ### [discordpy-reply](https://github.com/decave27/discordpy-reply)
- ㄴ use the new "reply" feature from Discord as a bot(Python)
 ![discordpy-reply](https://github-readme-stats.vercel.app/api/pin/?username=decave27&repo=discordpy-reply)
+ ㄴ use the new "reply" feature from Discord as a bot(Python)
+
 ## 📞 Contact me!
 ### [Discord](https://discord.com/users/717044065635532810)
 ### [Twitter](https://twitter.com/decave27)
