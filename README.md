@@ -32,17 +32,12 @@ Make stock functions easier(Python)
 use the new "reply" feature from Discord as a bot(Python)
 
 ## 📞 Contact me!
-### [Discord](https://discord.com/users/717044065635532810)
-### [Twitter](https://twitter.com/decave27)
 ### [Email](mailto:decave27@gmail.com)
 
 ## 🏢 Teams
 ### [UniqueCode](https://discord.gg/ARCdUzC)
 ### [Team End](https://discord.gg/dHFzUjz)
-### [Team HT](https://discord.gg/dMC7kUy)
 ### [Array []](https://discord.gg/7k5bWur)
-### [Team Sirius](https://discord.gg/b9ZhEZh)
 ### [Wade Studio](https://discord.gg/53sUK7jAEW)
-### [Team Kat](https://discord.gg/R5UG5mR)
 
 
