@@ -21,6 +21,12 @@ I am just a normal student developer
 
 This module is designed to make it easy to create custom bots.(Python)
 
+
+### [Uniquebots-py-sdk](https://github.com/decave27/uniquebots-py-sdk)
+![Uniquebots-py-sdk](https://github-readme-stats.vercel.app/api/pin/?username=decave27&repo=uniquebots-py-sdk)
+
+A Simple Python API wrapper for Uniquebots.
+
 ### [autostock](https://github.com/decave27/autostock)
 ![autostock](https://github-readme-stats.vercel.app/api/pin/?username=decave27&repo=autostock)
 
@@ -30,6 +36,8 @@ Make stock functions easier(Python)
 ![discordpy-reply](https://github-readme-stats.vercel.app/api/pin/?username=decave27&repo=discordpy-reply)
 
 use the new "reply" feature from Discord as a bot(Python)
+
+
 
 ## 📞 Contact me!
 ### [Email](mailto:decave27@gmail.com)
