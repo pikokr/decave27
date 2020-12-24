@@ -49,8 +49,6 @@ use the new "reply" feature from Discord as a bot(Python)
 
 ## 🏢 Teams
 ### [UniqueCode](https://discord.gg/ARCdUzC)
-### [Team End](https://discord.gg/dHFzUjz)
-### [Array []](https://discord.gg/7k5bWur)
 ### [Wade Studio](https://discord.gg/53sUK7jAEW)
 
 
