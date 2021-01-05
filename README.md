@@ -9,7 +9,7 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/decave27)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/decave27?fan_landing=true)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/npjqvhn7dstb2g3ihfw89xtdb)
-[![Website](https://img.shields.io/website?label=Decave.fun&style=for-the-badge&url=decave.fun)](https://decave.fun)
+[![Website](https://img.shields.io/website?label=Decave.fun&style=for-the-badge&url=https://decave.fun)](https://decave.fun)
 
 ## 📄 Things I code with :zap:
 
