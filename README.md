@@ -11,7 +11,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/npjqvhn7dstb2g3ihfw89xtdb)
 [![Website](https://img.shields.io/website?label=cli.id&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://decave.fun)
 
-## 📄 Programming language used...
+## 📄 Things I code with :zap:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
